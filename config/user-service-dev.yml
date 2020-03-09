@@ -7,7 +7,7 @@ spring:
     name: user-service
   cloud:
     config:
-      override-none: true
+      override-none:  true
     
 server:
   port: 8101

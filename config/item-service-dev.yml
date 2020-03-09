@@ -3,7 +3,7 @@ spring:
     name: item-service
   cloud:
     config:
-      override-none: true
+      override-none:  true
     
 server:
   port: 8001
